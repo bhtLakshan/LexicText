@@ -1,0 +1,2 @@
+# LexicText
+Simple Text Editor
